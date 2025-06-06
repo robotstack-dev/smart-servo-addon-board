@@ -107,6 +107,13 @@ Contributions are welcome! Here are some guidelines to help you get started:
 - Use the issue tracker to report bugs or request features.
 - Provide as much detail as possible (steps to reproduce, expected behavior, etc.).
 
+## Author
+
+Nicholas Stedman
+
+- [GitHub](https://github.com/nsted)
+- [Tindie Store](https://www.tindie.com/stores/robotstack/)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
