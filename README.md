@@ -4,6 +4,8 @@ This repository contains the hardware design files and documentation for the Sma
 
 [**Buy on Tindie**](https://www.tindie.com/products/robotstack/smart-servo-addon-board/)
 
+> **Note:** This is an early version of the board. While it has been tested with several servo models, bugs may exist. Please report any issues you encounter.
+
 ## Description
 
 This board allows wireless control different TTL smart servos. I developed it to use with Seeed's Xiao esp32-s3 Microcontroller, but it should also work with Adafruit's QT-Py esp32-s3, and likely other esp32s. I've tested it with the following smart servos: Robotis XL430-W250, AX-12W, Feetech HL3930M, and briefly with Waveshare's ST3215. Firmware and Control Software are available in the links below.
